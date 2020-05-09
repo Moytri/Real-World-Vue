@@ -11,19 +11,8 @@
 </template>
 <script>
 export default {
-    data() {
-        return {
-            event :{ 
-               id: 1,
-               title: 'Living Room Clean Up',
-                date: 'Tues Aug 19, 2018',
-                time: '6:00',
-                attendees: [
-                { id: 'abc123', name: 'Moytri Barman' },
-                { id: 'def456', name: 'Arup Raton Roy' }
-                ]
-            }
-        }
+    props : {
+      event: Object
     }
 }
 </script>
