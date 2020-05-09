@@ -1,0 +1,76 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Home Cleanup",
+        "date": "Aug 28 2019",
+        "time": "10:00",
+        "location": "Burnaby",
+        "description": "Let's clean up the home.",
+        "organizer": "Moytri Barman",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Moytri Barman"
+          },
+          {
+            "id": "def456",
+            "name": "Arup Raton Roy"
+          },
+          {
+            "id": "ghi789",
+            "name": "Dhruba Jyoti Barman"
+          },
+          {
+            "id": "jkl101",
+            "name": "Luba"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Living Room Cleanup",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Burnaby, BC",
+        "description": "We're going to clean up this living room.",
+        "organizer": "Arup Raton Roy",
+        "category": "nature",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Dhruba Jyoti Barman"
+          },
+          {
+            "id": "jkl101",
+            "name": "Luba"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Pet Adoption Day",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Gregg Pollack",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Moytri Barman"
+          },
+          {
+            "id": "ghi789",
+            "name": "Dhruba Jyoti Barman"
+          },
+          {
+            "id": "jkl101",
+            "name": "Luba"
+          }
+        ]
+      }
+    ]
+  }
